@@ -1,0 +1,17 @@
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\DeliveryAPI.exe
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\out\web.config
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\appsettings.Development.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\appsettings.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\out\appsettings.Development.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\out\appsettings.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\out\DeliveryAPI.deps.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\out\DeliveryAPI.runtimeconfig.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\DeliveryAPI.dll
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\DeliveryAPI.deps.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\DeliveryAPI.runtimeconfig.json
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\DeliveryAPI.pdb
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\Microsoft.AspNetCore.OpenApi.dll
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\Microsoft.OpenApi.dll
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AngularCodePractice\MyWebApi\DeliveryAPI\out\Swashbuckle.AspNetCore.SwaggerUI.dll

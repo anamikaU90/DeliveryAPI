@@ -3,7 +3,7 @@ using System.Text.Json.Serialization;
 
 public class OrderRequest
 {
-    [JsonPropertyName("products")]
-    public Dictionary<string,int> Products{get; set;}
+    [JsonPropertyName("order")]
+    public Dictionary<string,int> Order{get; set;}
 
 }
