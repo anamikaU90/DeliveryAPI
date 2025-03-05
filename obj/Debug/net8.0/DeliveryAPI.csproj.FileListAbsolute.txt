@@ -42,4 +42,3 @@ C:\AngularCodePractice\MyWebApi\DeliveryAPI\bin\Debug\net8.0\out\out\appsettings
 C:\AngularCodePractice\MyWebApi\DeliveryAPI\bin\Debug\net8.0\out\out\appsettings.json
 C:\AngularCodePractice\MyWebApi\DeliveryAPI\bin\Debug\net8.0\out\out\DeliveryAPI.deps.json
 C:\AngularCodePractice\MyWebApi\DeliveryAPI\bin\Debug\net8.0\out\out\DeliveryAPI.runtimeconfig.json
-C:\AngularCodePractice\MyWebApi\DeliveryAPI\bin\Debug\net8.0\global.json
